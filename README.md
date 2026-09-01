@@ -40,7 +40,4 @@ A continuación se presentan las unidades temáticas correspondientes al program
 - [ ] 📔 **[Unidad 6: Arreglos y Estructuras de Datos Básicas](./Unidad6_ArreglosYEstructuras.md)**
   - *Vectores unidimensionales, matrices bidimensionales y registros.*
 
----
-
-> [!NOTE]
-> **Nota de entrega:** Este archivo funciona como índice principal (`README.md`) para la entrega de tareas, prácticas de laboratorio y portafolio final del periodo **Agosto - Diciembre 2026**.
+ **Agosto - Diciembre 2026**.
