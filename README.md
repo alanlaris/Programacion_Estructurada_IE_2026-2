@@ -14,7 +14,7 @@ Repo de la clase de programacion estructurada de ingenieria en electronica del T
 | **Materia:** | Programación Estructurada |
 | **Semestre:** | 3.er Semestre |
 | **Periodo Escolar:** | Agosto - Diciembre 2026 |
-| **Alumno:** | [Coloca tu Nombre Aquí] |
+| **Alumno:** | Alan Laris Diaz |
 
 ---
 
