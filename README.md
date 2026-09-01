@@ -24,7 +24,7 @@ Repo de la clase de programacion estructurada de ingenieria en electronica del T
 
 A continuación se presentan las unidades temáticas correspondientes al programa de **Programación Estructurada**. Haz clic en cada enlace para acceder a la documentación detallada en su respectivo archivo `.md`:
 
-- [x] 📘 **[Unidad 1: Introducción a la Programación Estructurada](./Unidad1_Introduccion.md)**
+- [x] 📘 **[Unidad 1: Introducción a la Programación Estructurada](/unidad1/Actividad.md
   - *Conceptos básicos, algoritmos, diagramas de flujo y pseudocódigo.*
 
 - [ ] 📗 **[Unidad 2: Elementos Básicos del Lenguaje y Tipos de Datos](./Unidad2_ElementosBasicos.md)**
