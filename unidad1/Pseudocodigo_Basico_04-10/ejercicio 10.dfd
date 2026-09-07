@@ -1,0 +1,38 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+46
+'ingrese el valor binario de la señal (0 o 1)'
+5
+1
+5
+senal
+7
+0
+1
+7
+senal=1
+6
+1
+8
+negacion
+1
+1
+13
+6
+1
+8
+negacion
+1
+0
+13
+4
+1
+33
+'la señal invertida es' ,negacion
+1

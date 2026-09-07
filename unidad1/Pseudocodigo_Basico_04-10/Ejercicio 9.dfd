@@ -1,0 +1,48 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+48
+'Ingrese la cantidad de resistencias a comprar:'
+5
+1
+8
+cantidad
+6
+1
+8
+subtotal
+10
+cantidad*5
+7
+0
+1
+13
+cantidad>=100
+6
+1
+5
+total
+8
+subtotal
+4
+1
+40
+'Precio regular. Total a pagar: $',total
+13
+6
+1
+5
+total
+13
+subtotal*0.85
+4
+1
+49
+'aplica 15% de descuento. Total a pagar: $',total
+13
+1

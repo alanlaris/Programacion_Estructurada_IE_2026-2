@@ -1,0 +1,29 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+34
+'Ingrese la cantidad de segundos:'
+5
+1
+15
+segundostotales
+6
+2
+7
+minutos
+25
+TRUNC(segundostotales/60)
+17
+segundosrestantes
+22
+segundostotales MOD 60
+4
+1
+87
+segundostotales, 'segundos equivalen a: ',minutos, 'min y ' , segundosrestantes, ' seg'
+1

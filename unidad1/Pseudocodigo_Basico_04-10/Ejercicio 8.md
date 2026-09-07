@@ -13,3 +13,5 @@ Inicio
     
     Escribir segundosTotales, "segundos equivalen a:", minutos, "minutos y", segundosRestantes, "segundos."
 Fin
+
+[archivodfd](./ejercicio%208.dfd)
