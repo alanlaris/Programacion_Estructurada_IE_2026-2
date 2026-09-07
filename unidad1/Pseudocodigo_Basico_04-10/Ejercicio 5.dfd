@@ -1,0 +1,30 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+70
+'sensor 1 (1:Abierto, 0: cerrado) y sensor 2 (1:abierto, 0: cerrado):'
+5
+1
+16
+sensor1, sensor2
+7
+0
+1
+29
+(sensor1 = 1) OR (sensor2= 1)
+4
+1
+45
+'Sistema seguro, todas las ventanas cerradas'
+13
+4
+1
+49
+' ALERTA DE SEGURIDAD, ventana abierta detectada'
+13
+1

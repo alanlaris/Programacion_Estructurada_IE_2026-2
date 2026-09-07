@@ -1,0 +1,30 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+52
+'Luz Baja? (1:si, 0: no) y Movimiento? (1:si, 0:No)'
+5
+1
+19
+luzbaja, movimiento
+7
+0
+1
+30
+(luzbaja=1) AND (movimiento=1)
+4
+1
+18
+'Lampara: APAGADA'
+13
+4
+1
+20
+'Lampara: ENCENDIDA'
+13
+1

@@ -1,0 +1,25 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+38
+'Ingrese Voltaje (V) y Corriente (I):'
+5
+1
+18
+voltaje, corriente
+6
+1
+8
+potencia
+17
+voltaje*corriente
+4
+1
+47
+'La potencia consumida es :' ,potencia, 'Watts'
+1
