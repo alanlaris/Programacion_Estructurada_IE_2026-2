@@ -1,0 +1,30 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+37
+'Ingrese el voltaje de entrada (V): '
+5
+1
+14
+voltajeentrada
+7
+0
+1
+51
+(voltajeentrada >= 2.0) AND (voltajeentrada <= 5.0)
+4
+1
+36
+'No es un estado logico ALTO valido'
+13
+4
+1
+34
+'Estado logico ALTO (HIGH) Valido'
+13
+1

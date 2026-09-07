@@ -1,0 +1,30 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+50
+'Ingrese la temperatura actual en Grados Celsius:'
+5
+1
+17
+temperaturaactual
+7
+0
+1
+22
+temperaturaactual >=85
+4
+1
+37
+'Temperatura normal. Motor operativo'
+13
+4
+1
+39
+'ALERTA: motor sobrecalentado. Apagar.'
+13
+1
