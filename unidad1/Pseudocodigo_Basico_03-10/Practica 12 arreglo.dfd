@@ -1,0 +1,128 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+1
+6
+opcion
+1
+0
+9
+1
+11
+opcion != 4
+4
+1
+39
+'1. Cilindro 2. Cubo 3. Esfera 4.Salir'
+4
+1
+26
+'Ingrese una opcion (1-4)'
+5
+1
+6
+opcion
+7
+0
+1
+8
+opcion=1
+7
+0
+1
+10
+opcion = 2
+7
+0
+1
+8
+opcion=3
+7
+0
+1
+8
+opcion=4
+4
+1
+18
+'opcion no valida'
+13
+4
+1
+23
+'saliendo del programa'
+13
+13
+4
+1
+31
+'inserte el radio de la esfera'
+5
+1
+1
+r
+6
+1
+1
+v
+19
+(4/3)*3.1416* (r^3)
+4
+1
+32
+'El volumen de la esfera es: ',v
+13
+13
+4
+1
+26
+'Ingrese el lado del cubo'
+5
+1
+1
+a
+6
+1
+1
+v
+3
+a^3
+4
+1
+28
+'El volumen del cubo es ' ,v
+13
+13
+4
+1
+32
+'Ingrese el radio del cilindro:'
+5
+1
+1
+r
+4
+1
+32
+'ingrese la altura del cilindro'
+5
+1
+1
+h
+6
+1
+1
+v
+18
+3.1416 * (r*r) * h
+4
+1
+33
+'el volumen del cilindro es:' , v
+13
+11
+1

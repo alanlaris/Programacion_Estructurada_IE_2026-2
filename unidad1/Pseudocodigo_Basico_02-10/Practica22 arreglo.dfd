@@ -1,0 +1,71 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+1
+9
+respuesta
+1
+1
+9
+1
+12
+respuesta= 1
+4
+1
+33
+'Ingresa los lados del triangulo'
+5
+1
+7
+a, b, c
+7
+0
+1
+44
+(a + b) > c AND (a + c > b)  AND (b + c > a)
+4
+1
+41
+'los lados no forman un triangulo valido'
+13
+7
+0
+1
+15
+(a=b) AND (b=c)
+7
+0
+1
+23
+(a=b) OR (b=c) OR (a=c)
+4
+1
+26
+'El triangulo es Escaleno'
+13
+4
+1
+26
+'El triangulo es Isoceles'
+13
+13
+4
+1
+28
+'el triangulo es equilatero'
+13
+13
+4
+1
+81
+'Desea evaluar otro triangulo? ingresa 1 para Si y cualquier otro numero para No'
+5
+1
+9
+respuesta
+11
+1
